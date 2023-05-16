@@ -1,0 +1,18 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject2"
+	},
+	{
+		"ParameterKey": "MinServers",
+		"ParameterValue": "1"
+	},
+	{
+		"ParameterKey": "MaxServers",
+		"ParameterValue": "3"
+	},
+	{
+		"ParameterKey": "BucketAddress",
+		"ParameterValue": "http://tom-udacity-bucket.s3-website-us-east-1.amazonaws.com/udagram.html"
+	}
+]
